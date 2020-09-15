@@ -22,3 +22,4 @@ If you want to code along
 If you want to look at the final implementation
 
 `git checkout pwa-app-manifest-final`
+
